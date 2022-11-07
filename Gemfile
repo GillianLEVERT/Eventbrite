@@ -10,6 +10,7 @@ gem "faker"
 gem "table_print"
 gem 'sendgrid-ruby'
 gem 'devise'
+gem 'mailjet'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
